@@ -1,0 +1,1430 @@
+DEBUG
+Error: Room not found
+LOG
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 0 }
+000283 | endGame
+000283 | makeRoomData
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 0 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 0 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | [GET MOVE] { myType: 1, move: '에네' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: -1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 0 }
+000283 | endGame
+000283 | makeRoomData
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 0 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 0 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: -1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | [DISCONNECT] { myType: -1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: -1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [CHALLENGER GIVEUP] { userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | makeRoomData
+000283 | [CHALLENGER GIVEUP] { userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 0 }
+000283 | endGame
+000283 | makeRoomData
+000283 | [R COUNT] { myType: -1, time: 0 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 0 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [READY] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [READY] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | startGame
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '기' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [GET MOVE] { myType: 1, move: '파' }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 0, move: '막' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '막' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 0, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: 1, time: 3 }
+000283 | [R COUNT] { myType: -1, time: 2 }
+000283 | [R COUNT] { myType: 0, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 2 }
+000283 | [R COUNT] { myType: 1, time: 1 }
+000283 | [R COUNT] { myType: -1, time: 1 }
+000283 | [R COUNT] { myType: 0, time: 1 }
+000283 | [GET MOVE] { myType: 1, move: '기' }
+000283 | [GET MOVE] { myType: 0, move: '파' }
+000283 | stopCountdown
+000283 | endGame
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [CHALLENGER GIVEUP] { userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [JOIN] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2', userName: '천연향료캔디' }
+000283 | makeRoomData
+000283 | [DISCONNECT] { myType: 1, userUuid: '7cd5ebd3-8b58-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2', userName: '야무치' }
+000283 | [DISCONNECT] { myType: -1, userUuid: 'cf96fc5e-bb51-11ef-9b35-9c6b00250ec2' }
+000283 | [JOIN] { myType: 0, userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2', userName: '마해철' }
+000283 | makeRoomData
+000283 | [CLOSE ROOM] { userUuid: '657ed3c1-889d-11ef-a085-9c6b00250ec2' }

@@ -1,0 +1,10 @@
+CREATE DATABASE mafia;
+
+USE mafia;
+
+CREATE TABLE users (
+    uuid CHAR(36) NOT NULL PRIMARY KEY,
+    id VARCHAR(50) NOT NULL UNIQUE,
+    pw VARCHAR(255) NOT NULL,
+    name VARCHAR(50) NOT NULL
+);

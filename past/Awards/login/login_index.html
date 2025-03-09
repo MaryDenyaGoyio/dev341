@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Each Award </title>
+    <style>
+        h1 {
+            font-size: 40px; /* 원하는 크기로 조정하세요. */
+        }
+
+        body {
+            text-align: center; /* 모든 텍스트를 중앙 정렬합니다. */
+            justify-content: center;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; /* 컨테이너 내부 아이템들을 중앙 정렬합니다. */
+        }
+
+        .login-container {
+            margin: 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            width: 300px;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 90%;
+            padding: 10px;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> 저는 이런 사람입니다 </h1>
+
+    <div class="container">
+
+        <div class="login-container">
+            <form action="login.php" method="post">
+                <label for="id">ID:</label>
+                <input type="text" id="id" name="id">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password">
+                <input type="submit" value="Login">
+            </form>
+        </div>
+
+    </div>
+</body>
+</html>

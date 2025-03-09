@@ -2,15 +2,22 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>간단한 웹 페이지</title>
+  <title>야스코피아</title>
 </head>
 
 <?php
-  // PHP 코드를 여기에 추가할 수 있습니다.
+
 ?>
 
 <body>
-  <h1>안녕하세요!</h1>
-  <p>이것은 가장 기본적인 PHP 웹 페이지 예제입니다.</p>
+  <h1>야스코피아 로비</h1>
+
+  <!-- 로그인 부분 -->
+  <?php if (isset($_SESSION['uuid'])): ?>
+    <a href="stats.php"><?php echo htmlspecialchars($_SESSION['name']); ?></a>
+  <?php else: ?>
+    <a href="auth/auth.php">sign in/up</a>
+  <?php endif; ?>
+
 </body>
 </html>

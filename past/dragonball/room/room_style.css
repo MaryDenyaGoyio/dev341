@@ -1,0 +1,281 @@
+/* 공통 스타일 */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* 게임 컨테이너 */
+.game-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 70%;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px; /* 게임 컨테이너와 하단 버튼 간격 */
+}
+
+/* 유저 정보 및 선택지 */
+.player, .opponent {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.player-info, .opponent-info {
+    background-color: #1e1e1e;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: white !important; /* 기본 회색 */
+    height: 20%;
+}
+
+.ready h2 {
+    color: white !important; /* 준비 완료 시 흰색으로 변경 */
+}
+
+h2, p {
+    height: 30%;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(12px, 2vw, 18px);
+}
+
+h2 {
+    height: 40%;
+    font-size: clamp(14px, 5vw, 30px);
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 70%;
+}
+
+.choice {
+    padding: 15px;
+    background-color: #333333;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    font-size: clamp(14px, 2vw, 20px); /* 글자 크기를 뷰포트에 맞추어 조절 */
+    max-width: 100%; /* 글자가 칸을 넘어가지 않도록 */
+    box-sizing: border-box;
+    white-space: nowrap; /* 한 줄로 유지 */
+    overflow: hidden; /* 넘친 부분은 숨김 */
+    text-overflow: ellipsis; /* 넘친 부분은 생략 표시 */
+}
+
+/* 각 선택지 배경색상 설정 */
+.choice:nth-child(1) { /* 기 */
+    background-color: rgba(255, 0, 0, 0.3); /* 빨간색에 약간의 투명도 */
+}
+.choice:nth-child(2) { /* 파 */
+    background-color: rgba(0, 0, 255, 0.3); /* 파란색에 약간의 투명도 */
+}
+.choice:nth-child(3) { /* 막 */
+    background-color: rgba(0, 128, 0, 0.3); /* 초록색에 약간의 투명도 */
+}
+.choice:nth-child(4) { /* 에네 */
+    background-color: rgba(128, 0, 128, 0.3); /* 보라색에 약간의 투명도 */
+}
+.choice:nth-child(5) { /* 순간 */
+    background-color: rgba(255, 255, 0, 0.3); /* 노란색에 약간의 투명도 */
+}
+
+.choice:hover {
+    filter: brightness(85%);
+    background-color: #444444;
+}
+
+/* 게임 결과 및 전적 */
+.game-result {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.vs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(2em, 5vw, 3em); /* 글씨 크기를 뷰포트에 맞추어 자동 조정 */
+    margin-bottom: 20px;
+}
+
+.player-choice, .opponent-choice {
+    font-size: clamp(1.5em, 5vw, 3em); /* 글씨 크기를 뷰포트에 맞추어 자동 조정 */
+    margin-bottom: 20px;
+    color: grey;
+    max-width: fit-content; /* 글자가 칸을 넘어가지 않도록 */
+    white-space: nowrap; /* 한 줄에 표시되도록 */
+    overflow: hidden; /* 글자가 넘치면 숨김 */
+    text-overflow: ellipsis; /* 넘친 부분은 생략 표시 */
+}
+
+.selection-result {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.history {
+    margin-top: 20px;
+    background-color: #1e1e1e;
+    padding: 10px;
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.2em;
+    color: #ffffff;
+    white-space: pre-wrap; /* 공백을 유지하여 줄 나눔 처리 */
+    word-wrap: break-word;
+}
+
+.history .entry {
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+    font-size: clamp(0.8em, 4vw, 1em); /* 기록 글자 크기를 자동으로 조절 */
+    max-width: 100%; /* 칸을 넘지 않게 */
+    overflow: hidden; /* 넘친 부분 숨김 */
+    text-overflow: ellipsis; /* 넘친 부분 생략 */
+}
+
+.history .move {
+    font-weight: bold;
+}
+
+.moves {
+    letter-spacing: 3px; /* 움직임들 사이의 간격 */
+}
+
+/* Quit Game 및 Start Game 버튼 스타일 */
+.game-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px; /* 간격을 줄임 */
+    padding: 10px;
+    width: 80%;
+}
+
+.game-buttons .button {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease;
+    width: 150px;
+    text-align: center;
+}
+
+.game-buttons .button:hover {
+    background-color: #444444;
+}
+
+.quit-game {
+    text-align: right;
+}
+
+.start-game {
+    text-align: left;
+}
+
+.countdown {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4em;
+    color: red;
+    display: none;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+/* 선택지 텍스트 색상 */
+.red-text { color: red; }
+.blue-text { color: blue; }
+.green-text { color: green; }
+.purple-text { color: purple; }
+.yellow-text { color: yellow; }
+
+/* 굵게 표시 */
+.bold-text { font-weight: bold; }
+
+/* 모바일 레이아웃 */
+@media (max-width: 768px) {
+    .game-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80%;
+    }
+
+    .player, .opponent {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 20%;
+    }
+
+    .player-info, .opponent-info {
+        width: 30%;
+        height: 60%;
+    }
+
+    .choices {
+        flex-direction: row;
+        gap: 5px;
+        width: 60%;
+    }
+
+    .choice {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 8.5px;
+        width: 20%;  /* 전체 너비에서 padding 포함 */
+        height: 100%;
+        font-size: clamp(12px, 1.5vw, 18px); /* 모바일에서도 글씨 크기 조절 */
+    }
+
+    .game-result {
+        width: 100%;
+        height: 60%;
+    }
+
+    .player-choice, .opponent-choice {
+        font-size: clamp(2em, 10vw, 3em); /* 모바일에서 자동 크기 조정 */
+    }
+}
