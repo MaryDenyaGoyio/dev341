@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2023-05-21 03:50:53 +0900",
+      "plains": "2023-06-03 22:50:04 +0900",
+      "taiga": "2023-05-21 03:49:29 +0900",
+      "taiga_hills": "2023-05-21 03:50:07 +0900",
+      "river": "2023-05-21 03:50:31 +0900"
+    },
+    "done": false
+  }
+}

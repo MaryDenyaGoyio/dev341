@@ -1,0 +1,111 @@
+[22:49:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:49:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:49:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:49:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:49:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_362, running on Linux:amd64:5.19.0-43-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:49:14] [main/INFO] [FML]: Searching /home/marydenya/Downloads/Industrial_Rucia/./mods for mods
+[22:49:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:49:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:49:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:49:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:49:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:49:15] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:49:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:49:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:49:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:49:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:49:15] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:49:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:49:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:49:16] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:49:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:49:16] [Server thread/INFO] [FML]: Searching /home/marydenya/Downloads/Industrial_Rucia/./mods for mods
+[22:49:16] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[22:49:16] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:49:16] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[22:49:17] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ic2] at CLIENT
+[22:49:17] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ic2] at SERVER
+[22:49:17] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:49:17] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[22:49:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:49:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:49:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:49:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:49:19] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[22:49:20] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[22:49:20] [Server thread/INFO] [FML]: Applying holder lookups
+[22:49:20] [Server thread/INFO] [FML]: Holder lookups applied
+[22:49:20] [Server thread/INFO] [FML]: Applying holder lookups
+[22:49:20] [Server thread/INFO] [FML]: Holder lookups applied
+[22:49:20] [Server thread/INFO] [FML]: Applying holder lookups
+[22:49:20] [Server thread/INFO] [FML]: Holder lookups applied
+[22:49:20] [Server thread/INFO] [FML]: Applying holder lookups
+[22:49:20] [Server thread/INFO] [FML]: Holder lookups applied
+[22:49:20] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:49:20] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:8000
+[22:49:21] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:49:21] [Server thread/INFO] [FML]: Applying holder lookups
+[22:49:21] [Server thread/INFO] [FML]: Holder lookups applied
+[22:49:21] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:49:21] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:49:21] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[22:49:21] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
+[22:49:21] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[22:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:49:21] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:49:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:49:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:49:22] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@72cc4a1b)
+[22:49:22] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[22:49:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@72cc4a1b)
+[22:49:22] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@72cc4a1b)
+[22:49:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:49:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[22:49:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.479s)! For help, type "help" or "?"
+[22:49:23] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:49:23] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:49:36] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player apricot090 is d86ee2f9-b072-42b2-b620-09df63b98220
+[22:49:36] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:49:36] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,ic2@2.8.222-ex112,mcp@9.42
+[22:49:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:49:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: apricot090[/118.235.7.100:62997] logged in with entity id 117 at (25.485278263155347, 88.04772120736122, 61.19482649786731)
+[22:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: apricot090 joined the game
+[22:49:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [apricot090: Set own game mode to Creative Mode]
+[22:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [apricot090: Set own game mode to Spectator Mode]
+[22:54:41] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[22:54:41] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:54:41] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2859,ic2@2.8.222-ex112,mcp@9.42
+[22:54:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:54:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: semipor[/218.150.1.163:53270] logged in with entity id 7165 at (239.3259100061044, 90.0, -59.39411872219021)
+[22:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: semipor joined the game
+[22:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] How's the server
+[22:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <semipor> very good
+[22:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] Special Thx
+[23:01:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: semipor lost connection: Disconnected
+[23:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: semipor left the game
+[23:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:31:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:31:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:31:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:31:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:31:36] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:31:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:31:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players

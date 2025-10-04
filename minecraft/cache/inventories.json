@@ -1,0 +1,618 @@
+{
+  "78d2ce5b-2c8b-42f6-918d-ec43bf936e15": {
+    "inventory": [
+      {
+        "slot": 0,
+        "id": "minecraft:leaf_litter",
+        "count": 7,
+        "source": "inventory"
+      },
+      {
+        "slot": 1,
+        "id": "minecraft:stick",
+        "count": 3,
+        "source": "inventory"
+      },
+      {
+        "slot": 2,
+        "id": "minecraft:cobblestone",
+        "count": 15,
+        "source": "inventory"
+      },
+      {
+        "slot": 3,
+        "id": "minecraft:dirt",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 6,
+        "id": "minecraft:wooden_axe",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 7,
+        "id": "minecraft:wooden_sword",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 8,
+        "id": "minecraft:wooden_pickaxe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 16
+        },
+        "source": "inventory"
+      }
+    ],
+    "ender_chest": [],
+    "equipment": {},
+    "raw": {
+      "SelectedItemSlot": 8,
+      "XpLevel": 0,
+      "Health": 2.833332061767578
+    }
+  },
+  "996543fc-649b-4869-91ee-6723b125f756": {
+    "inventory": [
+      {
+        "slot": 0,
+        "id": "minecraft:wooden_pickaxe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 3
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 1,
+        "id": "minecraft:stone_pickaxe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 26
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 2,
+        "id": "minecraft:stone_axe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 50
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 3,
+        "id": "minecraft:pale_oak_log",
+        "count": 7,
+        "source": "inventory"
+      },
+      {
+        "slot": 5,
+        "id": "minecraft:stick",
+        "count": 2,
+        "source": "inventory"
+      },
+      {
+        "slot": 6,
+        "id": "minecraft:dark_oak_door",
+        "count": 4,
+        "source": "inventory"
+      },
+      {
+        "slot": 7,
+        "id": "minecraft:dark_oak_planks",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 8,
+        "id": "minecraft:dirt",
+        "count": 19,
+        "source": "inventory"
+      },
+      {
+        "slot": 9,
+        "id": "minecraft:pale_moss_block",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 10,
+        "id": "minecraft:dark_oak_planks",
+        "count": 18,
+        "source": "inventory"
+      },
+      {
+        "slot": 11,
+        "id": "minecraft:white_wool",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 12,
+        "id": "minecraft:furnace",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 24,
+        "id": "minecraft:birch_planks",
+        "count": 7,
+        "source": "inventory"
+      },
+      {
+        "slot": 34,
+        "id": "minecraft:leaf_litter",
+        "count": 20,
+        "source": "inventory"
+      },
+      {
+        "id": "minecraft:copper_helmet",
+        "count": 1,
+        "slot": 103,
+        "source": "equipment"
+      }
+    ],
+    "ender_chest": [],
+    "equipment": {
+      "head": {
+        "id": "minecraft:copper_helmet",
+        "count": 1,
+        "slot": 103,
+        "source": "equipment"
+      }
+    },
+    "raw": {
+      "SelectedItemSlot": 4,
+      "XpLevel": 0,
+      "Health": 20.0
+    }
+  },
+  "bcbd6f46-d5f1-4504-a345-41693830e6db": {
+    "inventory": [
+      {
+        "slot": 0,
+        "id": "minecraft:cooked_cod",
+        "count": 26,
+        "source": "inventory"
+      },
+      {
+        "slot": 1,
+        "id": "minecraft:iron_pickaxe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 7
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 5,
+        "id": "minecraft:torch",
+        "count": 23,
+        "source": "inventory"
+      },
+      {
+        "slot": 8,
+        "id": "minecraft:cooked_beef",
+        "count": 63,
+        "source": "inventory"
+      },
+      {
+        "slot": 17,
+        "id": "minecraft:bundle",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 34,
+        "id": "minecraft:arrow",
+        "count": 28,
+        "source": "inventory"
+      },
+      {
+        "slot": 35,
+        "id": "minecraft:cooked_porkchop",
+        "count": 11,
+        "source": "inventory"
+      },
+      {
+        "id": "minecraft:shield",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 204
+        },
+        "slot": 40,
+        "source": "equipment"
+      }
+    ],
+    "ender_chest": [],
+    "equipment": {
+      "offhand": {
+        "id": "minecraft:shield",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 204
+        },
+        "slot": 40,
+        "source": "equipment"
+      }
+    },
+    "raw": {
+      "SelectedItemSlot": 3,
+      "XpLevel": 33,
+      "Health": 20.0
+    }
+  },
+  "e8fb4d6b-4cb7-4147-b11c-990508cfc4af": {
+    "inventory": [
+      {
+        "slot": 0,
+        "id": "minecraft:potato",
+        "count": 31,
+        "source": "inventory"
+      },
+      {
+        "slot": 1,
+        "id": "minecraft:dark_oak_boat",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 2,
+        "id": "minecraft:iron_axe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 36
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 3,
+        "id": "minecraft:bread",
+        "count": 3,
+        "source": "inventory"
+      },
+      {
+        "slot": 4,
+        "id": "minecraft:iron_pickaxe",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 140
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 5,
+        "id": "minecraft:apple",
+        "count": 25,
+        "source": "inventory"
+      },
+      {
+        "slot": 7,
+        "id": "minecraft:crafting_table",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 8,
+        "id": "minecraft:shears",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 3
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 9,
+        "id": "minecraft:bundle",
+        "count": 1,
+        "components": {
+          "minecraft:bundle_contents": [
+            {
+              "count": 27,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "count": 2,
+              "id": "minecraft:white_wool"
+            },
+            {
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "count": 1,
+              "id": "minecraft:furnace"
+            },
+            {
+              "count": 3,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "count": 3,
+              "id": "minecraft:flint"
+            },
+            {
+              "count": 2,
+              "id": "minecraft:mutton"
+            },
+            {
+              "count": 2,
+              "id": "minecraft:beef"
+            },
+            {
+              "count": 3,
+              "id": "minecraft:leather"
+            },
+            {
+              "count": 5,
+              "id": "minecraft:emerald"
+            }
+          ]
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 10,
+        "id": "minecraft:cobblestone",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 11,
+        "id": "minecraft:stick",
+        "count": 3,
+        "source": "inventory"
+      },
+      {
+        "slot": 12,
+        "id": "minecraft:oak_planks",
+        "count": 13,
+        "source": "inventory"
+      },
+      {
+        "slot": 13,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 14,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 15,
+        "id": "minecraft:string",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 16,
+        "id": "minecraft:string",
+        "count": 49,
+        "source": "inventory"
+      },
+      {
+        "slot": 17,
+        "id": "minecraft:raw_copper",
+        "count": 27,
+        "source": "inventory"
+      },
+      {
+        "slot": 18,
+        "id": "minecraft:iron_chestplate",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 9
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 19,
+        "id": "minecraft:diamond_boots",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 9
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 20,
+        "id": "minecraft:diamond_helmet",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 21,
+        "id": "minecraft:raw_gold",
+        "count": 15,
+        "source": "inventory"
+      },
+      {
+        "slot": 22,
+        "id": "minecraft:raw_iron",
+        "count": 20,
+        "source": "inventory"
+      },
+      {
+        "slot": 23,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 26,
+        "id": "minecraft:rail",
+        "count": 15,
+        "source": "inventory"
+      },
+      {
+        "slot": 27,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 28,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 30,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 31,
+        "id": "minecraft:cobbled_deepslate",
+        "count": 64,
+        "source": "inventory"
+      },
+      {
+        "slot": 33,
+        "id": "minecraft:cooked_porkchop",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "slot": 34,
+        "id": "minecraft:iron_helmet",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 9
+        },
+        "source": "inventory"
+      },
+      {
+        "slot": 35,
+        "id": "minecraft:name_tag",
+        "count": 1,
+        "source": "inventory"
+      },
+      {
+        "id": "minecraft:shield",
+        "count": 1,
+        "slot": 40,
+        "source": "equipment"
+      }
+    ],
+    "ender_chest": [],
+    "equipment": {
+      "offhand": {
+        "id": "minecraft:shield",
+        "count": 1,
+        "slot": 40,
+        "source": "equipment"
+      }
+    },
+    "raw": {
+      "SelectedItemSlot": 6,
+      "XpLevel": 13,
+      "Health": 20.0
+    }
+  },
+  "fbf74d2e-5b93-49ab-a3ac-2dab34d60318": {
+    "inventory": [
+      {
+        "id": "minecraft:shield",
+        "count": 1,
+        "slot": 40,
+        "source": "equipment"
+      },
+      {
+        "id": "minecraft:iron_boots",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 12
+        },
+        "slot": 100,
+        "source": "equipment"
+      },
+      {
+        "id": "minecraft:iron_leggings",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 4
+        },
+        "slot": 101,
+        "source": "equipment"
+      },
+      {
+        "id": "minecraft:iron_chestplate",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 11
+        },
+        "slot": 102,
+        "source": "equipment"
+      },
+      {
+        "id": "minecraft:iron_helmet",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 11
+        },
+        "slot": 103,
+        "source": "equipment"
+      }
+    ],
+    "ender_chest": [],
+    "equipment": {
+      "head": {
+        "id": "minecraft:iron_helmet",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 11
+        },
+        "slot": 103,
+        "source": "equipment"
+      },
+      "chest": {
+        "id": "minecraft:iron_chestplate",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 11
+        },
+        "slot": 102,
+        "source": "equipment"
+      },
+      "legs": {
+        "id": "minecraft:iron_leggings",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 4
+        },
+        "slot": 101,
+        "source": "equipment"
+      },
+      "feet": {
+        "id": "minecraft:iron_boots",
+        "count": 1,
+        "components": {
+          "minecraft:damage": 12
+        },
+        "slot": 100,
+        "source": "equipment"
+      },
+      "offhand": {
+        "id": "minecraft:shield",
+        "count": 1,
+        "slot": 40,
+        "source": "equipment"
+      }
+    },
+    "raw": {
+      "SelectedItemSlot": 4,
+      "XpLevel": 10,
+      "Health": 20.0
+    }
+  }
+}

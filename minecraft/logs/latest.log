@@ -1,0 +1,224 @@
+[00:20:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[00:20:51] [RCON Client /127.0.0.1 #58/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[00:21:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[00:21:10] [RCON Client /127.0.0.1 #59/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[00:56:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[00:56:05] [RCON Client /127.0.0.1 #60/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[00:57:36] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[00:57:36] [RCON Client /127.0.0.1 #61/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:03:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:03:38] [RCON Client /127.0.0.1 #62/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:14:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:14:43] [RCON Client /127.0.0.1 #63/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:19:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:19:11] [RCON Client /127.0.0.1 #64/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:19:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:19:38] [RCON Client /127.0.0.1 #65/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:30:08] [User Authenticator #8/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[01:30:09] [Server thread/INFO]: semipor[/172.18.0.1:42948] logged in with entity id 923 at (581.8384897735533, 71.0, 704.6488593876348)
+[01:30:09] [Server thread/INFO]: semipor joined the game
+[01:30:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:30:28] [RCON Client /127.0.0.1 #66/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:52:47] [Server thread/INFO]: semipor lost connection: Disconnected
+[01:52:47] [Server thread/INFO]: semipor left the game
+[01:53:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:05:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:05:21] [RCON Client /127.0.0.1 #67/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:15:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:15:15] [RCON Client /127.0.0.1 #68/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:15:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:15:19] [RCON Client /127.0.0.1 #69/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:17:26] [User Authenticator #9/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[02:17:26] [Server thread/INFO]: semipor[/172.18.0.1:55250] logged in with entity id 3896 at (298.20981656346527, 62.0, 138.30000001192093)
+[02:17:26] [Server thread/INFO]: semipor joined the game
+[02:17:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:17:37] [RCON Client /127.0.0.1 #70/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:29:06] [Server thread/INFO]: semipor lost connection: Disconnected
+[02:29:06] [Server thread/INFO]: semipor left the game
+[02:29:13] [User Authenticator #10/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[02:29:13] [Server thread/INFO]: semipor[/172.18.0.1:34120] logged in with entity id 5285 at (385.2140628237807, 42.0, 125.69999998807907)
+[02:29:13] [Server thread/INFO]: semipor joined the game
+[02:33:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:33:17] [RCON Client /127.0.0.1 #71/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:49:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:49:03] [RCON Client /127.0.0.1 #72/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:57:12] [Server thread/INFO]: semipor has made the advancement [A Terrible Fortress]
+[02:58:17] [Server thread/INFO]: semipor lost connection: Disconnected
+[02:58:17] [Server thread/INFO]: semipor left the game
+[02:58:24] [User Authenticator #11/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[02:58:25] [Server thread/INFO]: semipor[/172.18.0.1:40886] logged in with entity id 9437 at (-425.77275247024, 67.0, -30.18218242274695)
+[02:58:25] [Server thread/INFO]: semipor joined the game
+[03:08:19] [Server thread/INFO]: semipor lost connection: Disconnected
+[03:08:19] [Server thread/INFO]: semipor left the game
+[03:09:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:09:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:09:43] [RCON Client /127.0.0.1 #73/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:09:54] [User Authenticator #12/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[03:09:54] [Server thread/INFO]: semipor[/172.18.0.1:39784] logged in with entity id 10639 at (-413.835144038042, 74.0, -65.71372373132932)
+[03:09:54] [Server thread/INFO]: semipor joined the game
+[03:09:56] [Server thread/INFO]: semipor was burned to a crisp while fighting Blaze
+[03:21:23] [Server thread/INFO]: semipor has made the advancement [Into Fire]
+[03:21:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:21:50] [RCON Client /127.0.0.1 #74/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:25:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:25:14] [RCON Client /127.0.0.1 #75/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:41:29] [Server thread/INFO]: semipor lost connection: Disconnected
+[03:41:29] [Server thread/INFO]: semipor left the game
+[03:41:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:41:32] [RCON Client /127.0.0.1 #76/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:42:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:49:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:49:01] [RCON Client /127.0.0.1 #77/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:52:04] [User Authenticator #13/INFO]: UUID of player MaryDenyaGo is 996543fc-649b-4869-91ee-6723b125f756
+[03:52:05] [Server thread/INFO]: MaryDenyaGo[/172.18.0.1:59216] logged in with entity id 15659 at (74.14654649969937, 137.4886679279097, 307.3561810751263)
+[03:52:05] [Server thread/INFO]: MaryDenyaGo joined the game
+[05:39:56] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[05:39:56] [RCON Client /127.0.0.1 #78/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[06:22:35] [User Authenticator #14/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[06:22:36] [Server thread/INFO]: semipor[/172.18.0.1:37098] logged in with entity id 16156 at (583.4711972914259, 71.0, 704.429899303205)
+[06:22:36] [Server thread/INFO]: semipor joined the game
+[06:24:24] [Server thread/INFO]: semipor lost connection: Disconnected
+[06:24:24] [Server thread/INFO]: semipor left the game
+[06:31:33] [User Authenticator #15/INFO]: UUID of player semipor is bcbd6f46-d5f1-4504-a345-41693830e6db
+[06:31:33] [Server thread/INFO]: semipor[/172.18.0.1:54402] logged in with entity id 16600 at (581.854386614846, 71.0, 705.1352108856179)
+[06:31:33] [Server thread/INFO]: semipor joined the game
+[06:35:25] [Server thread/INFO]: <semipor> Are you have blaze powder?
+[06:48:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[06:48:06] [RCON Client /127.0.0.1 #79/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[06:48:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[06:48:30] [RCON Client /127.0.0.1 #80/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[06:49:19] [Server thread/INFO]: semipor has made the advancement [Local Brewery]
+[07:12:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:12:21] [RCON Client /127.0.0.1 #81/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:32:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:32:08] [RCON Client /127.0.0.1 #82/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:32:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:32:18] [RCON Client /127.0.0.1 #83/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:36:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:36:59] [RCON Client /127.0.0.1 #84/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[08:02:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:02:50] [RCON Client /127.0.0.1 #85/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[08:04:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:04:43] [RCON Client /127.0.0.1 #86/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[08:09:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:09:07] [RCON Client /127.0.0.1 #87/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[08:09:27] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Survival Mode]
+[08:09:37] [Server thread/INFO]: <MaryDenyaGo> 내가 돌아왔다
+[08:09:46] [Server thread/INFO]: <semipor> HI
+[08:09:54] [Server thread/INFO]: <MaryDenyaGo> 너 혹시
+[08:10:01] [Server thread/INFO]: <MaryDenyaGo> 방어구 입었음?
+[08:10:06] [Server thread/INFO]: <semipor> YES
+[08:10:11] [Server thread/INFO]: <semipor> WITH DIAMOND
+[08:10:15] [Server thread/INFO]: <MaryDenyaGo> 아 그럼 웹에서 안 잡히는거구나
+[08:10:18] [Server thread/INFO]: <MaryDenyaGo> 헉!!!!
+[08:10:20] [Server thread/INFO]: <MaryDenyaGo> 부자
+[08:11:35] [Server thread/INFO]: MaryDenyaGo has made the advancement [Monster Hunter]
+[08:11:41] [Server thread/INFO]: <MaryDenyaGo> 컷.
+[08:11:45] [Server thread/INFO]: <semipor> STRONG
+[08:12:16] [Server thread/INFO]: <MaryDenyaGo> 일단 그러면
+[08:12:19] [Server thread/INFO]: <MaryDenyaGo> 코딩 좀 더 해봐야겠다
+[08:12:29] [Server thread/INFO]: <MaryDenyaGo> 방어구 있는데 못 잡고 있는거네
+[08:12:31] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Spectator Mode]
+[08:29:36] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:29:36] [RCON Client /127.0.0.1 #88/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[09:16:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:16:49] [RCON Client /127.0.0.1 #89/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[09:18:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:18:49] [RCON Client /127.0.0.1 #90/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[09:18:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:18:59] [RCON Client /127.0.0.1 #91/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[09:25:51] [Server thread/INFO]: semipor lost connection: Disconnected
+[09:25:51] [Server thread/INFO]: semipor left the game
+[09:58:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:58:18] [RCON Client /127.0.0.1 #92/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:11:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:11:26] [RCON Client /127.0.0.1 #93/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:12:59] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Creative Mode]
+[10:13:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:17] [RCON Client /127.0.0.1 #94/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:26] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Spectator Mode]
+[10:13:28] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Adventure Mode]
+[10:13:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:34] [RCON Client /127.0.0.1 #95/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:41] [RCON Client /127.0.0.1 #96/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:41] [RCON Client /127.0.0.1 #97/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:42] [RCON Client /127.0.0.1 #98/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:42] [RCON Client /127.0.0.1 #99/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:42] [RCON Client /127.0.0.1 #100/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:42] [RCON Client /127.0.0.1 #101/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:43] [RCON Client /127.0.0.1 #102/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:43] [RCON Client /127.0.0.1 #103/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:44] [RCON Client /127.0.0.1 #104/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:44] [RCON Client /127.0.0.1 #105/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:44] [RCON Client /127.0.0.1 #106/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:13:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:13:48] [RCON Client /127.0.0.1 #107/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:14:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:14:07] [RCON Client /127.0.0.1 #108/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:14:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:14:08] [RCON Client /127.0.0.1 #109/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:14:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:14:31] [RCON Client /127.0.0.1 #110/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:16:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:16:44] [RCON Client /127.0.0.1 #111/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:17:09] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Creative Mode]
+[10:17:14] [Server thread/INFO]: MaryDenyaGo has made the advancement [Cover Me with Diamonds]
+[10:17:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:17:24] [RCON Client /127.0.0.1 #112/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:18:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:18:15] [RCON Client /127.0.0.1 #113/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:18:21] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Survival Mode]
+[10:18:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:18:37] [RCON Client /127.0.0.1 #114/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:18:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:18:48] [RCON Client /127.0.0.1 #115/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:19:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:19:29] [RCON Client /127.0.0.1 #116/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:19:36] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:19:36] [RCON Client /127.0.0.1 #117/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:21:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:21:47] [RCON Client /127.0.0.1 #118/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:23:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:23:43] [RCON Client /127.0.0.1 #119/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:28:57] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Creative Mode]
+[10:29:01] [Server thread/INFO]: [MaryDenyaGo: Set own game mode to Survival Mode]
+[10:30:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:09] [RCON Client /127.0.0.1 #120/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:13] [RCON Client /127.0.0.1 #121/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:21] [RCON Client /127.0.0.1 #122/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:28] [RCON Client /127.0.0.1 #123/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:29] [RCON Client /127.0.0.1 #124/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:30] [RCON Client /127.0.0.1 #125/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:31] [RCON Client /127.0.0.1 #126/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:32] [RCON Client /127.0.0.1 #127/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:33] [RCON Client /127.0.0.1 #128/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:33] [RCON Client /127.0.0.1 #129/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:30:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:30:34] [RCON Client /127.0.0.1 #130/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:32:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:32:01] [RCON Client /127.0.0.1 #131/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:34:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:34:26] [RCON Client /127.0.0.1 #132/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[10:35:18] [Server thread/INFO]: MaryDenyaGo lost connection: Disconnected
+[10:35:18] [Server thread/INFO]: MaryDenyaGo left the game
+[10:36:18] [Server thread/INFO]: Server empty for 60 seconds, pausing

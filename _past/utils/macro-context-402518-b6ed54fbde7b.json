@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "vocal-lead-455716-g6",
+    "private_key_id": "7f1998b648b2a5ce938aeb5c0565145fd4b22985",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSF8ktNPaifv5Y\nbH0+/vtM+wjahPgxZDy/5U50Oa4goEpouNuwINaOb8Ky427Q0MtwQcbOUEiOljt+\nQSZpTO688dAd+uhYEbm8n3MQJm3z8RpJjtZSNaRU5OvYYGMbO39Japsh2xJZGTB3\nT5ohGut4TruPaf1PfcKZh39kk/O42Oq/MCXoYgE/zZmtJDvzx/+byF6MmILn10cK\ntUAB/Y0CS0KT9+BqSmhDGg/kw5FfBGDv2aGgQ+1Gl5F7yuu/LmDnz5S8JpC1hNNs\nlRW4BWzMJ7GvCURz9O2tzNm91iEkfIh1p7S9SF/01tWDWKaMCJeJLSVVRDzfASHy\nzJlyMpnXAgMBAAECggEAJ7+O/dzGKeoRe69w2D3507UNcJ7zBEU4fiF+mgLDjJ7v\n/9Qj+aTFm5VuzMsycGAOqelLlQCk7R6U60IAmG/VGNVWAYItyyBvf5GGdeNu0QtN\nUqwpRc7QekSaopF/BX7HoAsAUFLRiCphVGT1E4LGhEIvp9J3mDQoSStjjtLuYeFB\noEMOjlEbNsGtNylxJotieqfv68H37N85+giK1B3jc3jOBVGP7/FU5q7uMHdzYLPw\nVeLlgBIl1sWjF2PoEjhfuTr70onPjh1oR+fEq38EGhbIoBkk81z9UsyMKnyyjsJx\n+/SIL88tpGEtDXVgROK3QdA7M50Wxc54FJWs3gAlQQKBgQDGcuJsB0PsqXksLguV\nYvmNLVGW7yCLx2aVjEOEfEz5Txm+CHNrgfKt3hXa3N/O3NJSiTtq3/y6IDwK4UcY\nGBK1ALyLSYzBdgJUdIzZEF0Es6jOpTKQJXUW6TyiiYtN6IXO6IWdas91wR9mzrk9\nrQOK9E0pjOkpnzWNBUOxQQ3XIQKBgQC8de3d7KpXQ2BjNG4rwYMZ3Mqsg3DgpVr1\nf9gDjmiVLG9NpFjADzBdB9stNwO8MHTb4YobxlPV1JK3VLYOK48/DauUWCVmyZiZ\noBhASI+7kN3VfLK5lS4JgjFUorp6oWkRWmNXepD01SKWR1wQlgsQDGAxBUwRCisW\nFTTtIqvp9wKBgGpZDNAZwKPmWmJ7todzCAtJOw0ozwc5b9c62L/6IQIGCuSVAM2f\nUR8uAgZNEb95BVln46itqnFQbvzhp0jZNcU8RM5cNwtCI5OA9i4pH8AyS4eabhNj\nj3EcwvrTvQyeTH8KivhGUjFnsl1U8V6FBn4D2AopUpaUlI0jQhiOpU0hAoGBAKKk\np98hszRSKmoTQo0ymSEFwke1vAGz0tcSOOuAyFMNIRWBozJFKXjwIcBYvTl5HDDy\n6UzlEU72AJSFYATEpQBGnPAOTmDx1GeomaVIufqmoDvxPREaZLvCBy7CrWrNyC44\nsok5dsZE9m95MEQEKZH1DELiDm6aNur87EtG49SrAoGARLJmWiLdanq62zCMksp5\nKNASNgdQMiAIytKDUjyFfg3LWs3MfEXFDH6pc4WymJHXl0lcBC/SCav7EJ/L4+/M\nsixbo0uj2mQIQhXnmlR2JEKUTZTMet6dz9M+2shIVUSNaBXQIqwW90cSaxxYfZYc\nEqpi89zmpWPGV7jTFP7U2+U=\n-----END PRIVATE KEY-----\n",
+    "client_email": "marydenya@vocal-lead-455716-g6.iam.gserviceaccount.com",
+    "client_id": "109827702681340605803",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marydenya%40vocal-lead-455716-g6.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
